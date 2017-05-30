@@ -1,0 +1,3 @@
+ALTERNATE SOLAR ARRAY TEXTURES - INSTRUCTIONS
+
+Copy the desired texture ('SAW.png') into the GameData/HabTech/Parts/ISS directory, overwriting the existing texture. A backup of the original texture is provided. 

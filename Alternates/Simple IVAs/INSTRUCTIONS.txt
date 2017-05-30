@@ -1,0 +1,4 @@
+SIMPLE IVAs - INSTRUCTIONS
+
+To install, simply REPLACE the Internals folder in the HabTech GameData directory with the Internals folder included here. DO NOT merge them. 
+This will replace the IVAs in game with very simple models and textures, saving memory but preserving crew portraits. 
